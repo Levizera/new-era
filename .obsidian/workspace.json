@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "c960fd435866cc39",
+    "type": "split",
+    "children": [
+      {
+        "id": "449317cc6d1ff719",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd1a5c224be823f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liberdade/Desobediência civil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16ab7275f6ad1d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educação e Autoeducação/Aula 01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87bce0f47123bfdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d27fb217fa87ee0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e245029d957a3da5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc61221bb075f875",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cb575dd5aab4861",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fd287f0e2564255b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cb309c1a67fca29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f49c11c84e8467dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Educação e Autoeducação/Aula 01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d778eaf148c99693",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Educação e Autoeducação/Aula 01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fde2bc914c8091b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad6fe5348cea6c85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Educação e Autoeducação/Aula 01.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "16ab7275f6ad1d0c",
+  "lastOpenFiles": [
+    "Liberdade/Desobediência civil.md"
+  ]
+}
