@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd1a5c224be823f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liberdade/Desobediência civil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "16ab7275f6ad1d0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educação e Autoeducação/Aula 01.md",
+                "file": "Educação e Autoeducação/Aula 01 - Educação e Autoeducação.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educação e Autoeducação/Aula 01.md",
+                "file": "Educação e Autoeducação/Aula 01 - Educação e Autoeducação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educação e Autoeducação/Aula 01.md",
+                "file": "Educação e Autoeducação/Aula 01 - Educação e Autoeducação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educação e Autoeducação/Aula 01.md"
+                "file": "Educação e Autoeducação/Aula 01 - Educação e Autoeducação.md"
               }
             }
           }
